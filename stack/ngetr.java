@@ -1,3 +1,4 @@
+package stack;
 import java.util.*;
 public class ngetr {
     public static void main(String[] args) {
